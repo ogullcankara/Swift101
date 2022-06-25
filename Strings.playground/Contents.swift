@@ -2,8 +2,8 @@ import UIKit
 
 //Tanımlama
 
-var stringA:String = "test"
-let stringB = String("test2")
+var stringA:String = "TEST1"
+let stringB = String("TEST2")
 var stringC = """
 Test1
 Test2
